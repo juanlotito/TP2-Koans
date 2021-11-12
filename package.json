@@ -1,0 +1,32 @@
+{
+  "main": "topics/about_truthyness.js",
+  "name": "koans",
+  "description": "Update ======",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "koans": "",
+    "ejecutar": "node ./topics/ejecutar_todo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pipetus/JavaScript-Koans.git"
+  },
+  "keywords": [
+    "javascript",
+    "koans"
+  ],
+  "author": "Martin G",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pipetus/JavaScript-Koans/issues"
+  },
+  "homepage": "https://github.com/pipetus/JavaScript-Koans#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "chalk": "^4.1.2",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {}
+}
